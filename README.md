@@ -39,7 +39,11 @@ node server.js then in browser type localhost:8000 and press enter.
 ## Usage: 
 In this application we are using Express Note Taker for organising daily tasks for the user. 
 
+## deployed link for heroku
+https://note-taker222.herokuapp.com/
 
+## github link
+https://zohamumtaz.github.io/note-taker/
 
 
 ## License: 
